@@ -2,11 +2,13 @@
   "name": "sampleone",
   "displayName": "sampleone",
   "expo": {
-    "name": "sampleone",
-    "slug": "sampleone",
+    "name": "GlasGow_PocketDoc",
+    "slug": "glasgow_pocketdoc",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "this is a simeple mobile application that help doctors to calculat GlasGow score , it is built as an Assessment at PocketDoc"
   }
 }
+
